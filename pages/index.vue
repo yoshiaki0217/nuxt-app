@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title text-2xl m-2000">nuxt-web</h1>
+      <h1 class="title text-2xl h-1.5/10 w-1.5/10">nuxt-web</h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
